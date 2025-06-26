@@ -20,5 +20,7 @@ Replace &lt;version&gt; with the appropriate version for your project (e.g versi
                     
                     
 ## Changelog                    
+### Added button styles - Version1    
+First version, no other versions to compare to.
 
 
