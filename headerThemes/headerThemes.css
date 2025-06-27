@@ -1,0 +1,8 @@
+.theme1{
+    font-size: 3rem;
+    font-family: Arial, sans-serief;
+}
+
+.theme1::before{
+    content: "Fun with programming";
+}
