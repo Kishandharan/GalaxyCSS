@@ -1,8 +1,8 @@
-.theme1{
+.headerTheme1{
     font-size: 3rem;
     font-family: Arial, sans-serief;
 }
 
-.theme1::before{
+.headerTheme2::before{
     content: "Fun with programming";
 }

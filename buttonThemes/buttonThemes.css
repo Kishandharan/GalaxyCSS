@@ -1,4 +1,4 @@
-.theme1{
+.buttonTheme1{
     background-color: #ff6105;
     display: inline-block;
     padding: 5px;
@@ -9,7 +9,7 @@
 }
 
 
-.theme2{
+.buttonTheme2{
     background-color: #05f585;
     display: inline-block;
     padding: 5px;
@@ -19,12 +19,12 @@
     cursor: pointer;
 }
 
-.theme1:hover{
+.buttonTheme1:hover{
     background-color: black;
     color: #ff6105;
 }
 
-.theme2:hover{
+.buttonTheme2:hover{
     color: #05f585;
     background-color: black;
 }

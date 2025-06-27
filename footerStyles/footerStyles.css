@@ -1,9 +1,9 @@
-.theme1{
+.footerTheme1{
     font-size: 2rem;
     color: black;
     font-family: Arial, sans-serif;
 }
 
-.theme1::after{
+.footerTheme1::after{
     content: "Confidential - Do not Share";
 }
