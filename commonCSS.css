@@ -45,3 +45,40 @@
 .transition_1L{
     transition: all 1s linear;
 }
+
+.width_100px{
+    width: 100px;
+}
+
+.height_100px{
+    height: 100px;
+}
+
+.animation1_originR_1s_inf{
+    transform-origin: right;
+    animation: animation1 1s infinite;
+}
+
+
+.animation1_originL_1s_inf{
+    transform-origin: left;
+    animation: animation1 1s infinite;
+}
+
+.animation1_sym_1s_inf{ 
+    animation: animation1 1s infinite;
+}
+
+@keyframes animation1{
+  0% {
+    transform: scaleX(1);
+  }
+
+  50% {
+    transform: scaleX(-1);
+  }
+
+  100%{
+     transform: scaleX(1);
+  }
+}
